@@ -87,8 +87,8 @@ These designs reflect a deep focus on *clarity, usability, and emotion* — all 
 
 ### 🧑‍🎨 Designer
 
-**  
-📧 your.email@example.com  
+Siva kumar T
+📧 sivakumar6216t@gmail.com
 🌍 [Portfolio](#) · 💼 [LinkedIn](#)
 
 ---
