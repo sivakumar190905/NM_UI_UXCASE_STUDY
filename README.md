@@ -77,9 +77,9 @@ These designs reflect a deep focus on *clarity, usability, and emotion* — all 
 
 | Project | Figma Link |
 |----------|-------------|
-| 🧭 TravelMate | [https://www.figma.com/design/zgW6xqlmua7tFmLsP11rLa/NM_UI_UXCASE_STUDY?node-id=0-1&t=ez7uPMBjylfP6Ijs-1](#) |
-| 💪 FitLife | [https://www.figma.com/design/33YZ2vwbZCisgW0cU2QtXQ/NM_UI_UXCASE_STUDY?node-id=0-1&t=Jqf5wbtPp9yEAmkb-1](#) |
-| 🎵 MusicStream | [https://www.figma.com/design/aXlOTIo9TZb6bIzCdvUdT6/NM_UI_UXCASE_STUDY?node-id=0-1&t=J1wmFibeVIzpIxqW-1](#) |
+| 🧭 TravelMate | [https://www.figma.com/design/zgW6xqlmua7tFmLsP11rLa/TRAVELMATE-Siva-kumar?node-id=1-4007&t=Jqf5wbtPp9yEAmkb-1](#) |
+| 💪 FitLife | [https://www.figma.com/design/33YZ2vwbZCisgW0cU2QtXQ/FITLIFE-SIva-kumar?node-id=0-1&t=Jqf5wbtPp9yEAmkb-1](#) |
+| 🎵 MusicStream | [https://www.figma.com/design/aXlOTIo9TZb6bIzCdvUdT6/MUSICSTREAM-Siva-kumar?t=Jqf5wbtPp9yEAmkb-1](#) |
 
 > *(Replace # with your actual Figma project URLs.)*
 
@@ -87,8 +87,19 @@ These designs reflect a deep focus on *clarity, usability, and emotion* — all 
 
 ### 🧑‍🎨 Designer
 
-Siva kumar T
+*[ Siva kumar T ]*
 📧 sivakumar6216t@gmail.com
 🌍 [Portfolio](#) · 💼 [LinkedIn](#)
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Design-Dark%20Mode-111?style=for-the-badge">
+</p>
+
+<p align="center">
+  ⭐ <i>If you like these designs, give this repo a star!</i> ⭐
+</p>
+
+
+⭐ If you like these designs, consider starring this repo or sharing it!
